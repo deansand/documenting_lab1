@@ -1,8 +1,9 @@
-# documenting_lab1
+# **Task**
+
+_AirBnB_
 AirBnB diagram(use case, activity, class and aequence)
 
-**Task**
-_AirBnB_
+
 
 Draw a use-case diagram of adding a new participant and searching for housing by certain parameters on the rental platform 
 
